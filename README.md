@@ -1,11 +1,11 @@
 # AutoUnite
-Decide first. Submit later.
 
-AutoUnite is building a calm, private car research platform that helps people understand their options before engaging with a dealer.
+## The automotive operating system for the entire vehicle lifecycle.
 
-One screen. Clear comparisons. No spam. No pressure.
+**One automotive universe. From the first question to the next vehicle.**
 
-**Status:** Private build. Coming 2026.
+AutoUnite is the automotive operating system for the entire vehicle lifecycle, connecting consumers, vehicles and dealers through a Decision Marketplace spanning research, fit, comparison, local inventory, deal economics, dealer choice, ownership and the next vehicle.
 
-Website: https://autounite.com  
-Updates: https://medium.com/@AutoUnite
+**Decide first. Submit later.**
+
+[Website](https://autounite.com)
